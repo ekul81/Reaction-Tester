@@ -1,0 +1,17 @@
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\bin\Debug\reaction tester.exe
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\bin\Debug\reaction tester.pdb
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\bin\Debug\reaction tester.xml
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\MainWindow.baml
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\Application.g.vb
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\reaction tester_MarkupCompile.cache
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\reaction tester.g.resources
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\reaction_tester.Resources.resources
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\reaction tester.exe
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\reaction tester.xml
+C:\Users\Luke\AppData\Local\Temporary Projects\reaction tester\obj\x86\Debug\reaction tester.pdb
+C:\Users\Luke\reaction tester\reaction tester\obj\x86\Debug\reaction tester.xml
+C:\Users\Luke\reaction tester\reaction tester\obj\x86\Debug\reaction tester.pdb
