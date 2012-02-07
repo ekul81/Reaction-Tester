@@ -6,15 +6,7 @@ reactiontester
 </name>
 </assembly>
 <members>
-<member name="M:reaction_tester.MainWindow.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="T:reaction_tester.MainWindow">
-	<summary>
-MainWindow
-</summary>
-</member><member name="M:reaction_tester.Application.InitializeComponent">
+<member name="M:reaction_tester.Application.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
@@ -25,6 +17,27 @@ Application Entry Point.
 </member><member name="T:reaction_tester.Application">
 	<summary>
 Application
+</summary>
+</member><member name="M:reaction_tester.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:reaction_tester.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="P:reaction_tester.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:reaction_tester.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:reaction_tester.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member><member name="P:reaction_tester.My.MyWpfExtension.Application">
 	<summary>
@@ -52,19 +65,6 @@ Application
  Module used to define the properties that are available in the My Namespace for WPF
  </summary>
 	<remarks></remarks>
-</member><member name="P:reaction_tester.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:reaction_tester.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:reaction_tester.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
 </member>
 </members>
 </doc>
