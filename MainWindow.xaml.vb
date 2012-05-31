@@ -2,6 +2,8 @@
     Dim Timer As New System.Diagnostics.Stopwatch
     Dim watcherthread As System.Threading.Thread
     Dim sresults As String = ""
+    Dim Iarrscores(0) As Integer
+
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs) Handles Button1.Click
         Dim thr As New System.Threading.Thread(AddressOf watchersub)
         thr.Start()
@@ -35,7 +37,6 @@
             sresults += newinteger.ToString + ", "
             grid.Background = New System.Windows.Media.SolidColorBrush(System.Windows.Media.Colors.Blue)
             Button1.Content = "again? " + vbNewLine + sresults
-
         End If
     End Sub
 End Class
